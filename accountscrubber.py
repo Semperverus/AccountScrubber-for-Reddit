@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
+#This project is licensed under the GPLv3
+
 #Please ensure that your system's encoding is also set to UTF-8!!!
 #Install Praw using "pip install praw"
 import praw
